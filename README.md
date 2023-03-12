@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=idiot2222&theme=tokyonight)
-
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=idiot2222&theme=tokyonight)
